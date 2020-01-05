@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\LangComp\bin\Debug\LangComp.exe.config
+C:\Users\Stefan\source\repos\LangComp\bin\Debug\LangComp.exe
+C:\Users\Stefan\source\repos\LangComp\bin\Debug\LangComp.pdb
+C:\Users\Stefan\source\repos\LangComp\obj\Debug\LangComp.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\LangComp\obj\Debug\LangComp.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\LangComp\obj\Debug\LangComp.exe
+C:\Users\Stefan\source\repos\LangComp\obj\Debug\LangComp.pdb
